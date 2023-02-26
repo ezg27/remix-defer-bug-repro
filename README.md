@@ -1,6 +1,6 @@
 # Remix defer bug repro
 
-Details: ISSUE LINK HERE
+Details: https://github.com/remix-run/remix/issues/5575
 
 ## Steps to reproduce
 
